@@ -297,8 +297,7 @@ http://103.175.73.12:8080/live/441/441_0.m3u8
 http://103.175.73.12:8080/live/37/37_0.m3u8
 
 
-#EXTINF:-1, COLORS CINEPLEX SD
-http://103.175.73.12:8080/live/273/273_0.m3u8
+
 
 
 
@@ -411,11 +410,19 @@ http://103.175.73.12:8080/live/78/78_0.m3u8
 http://103.175.73.12:8080/live/80/80_0.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="watcho",&TV SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-http://103.175.73.12:8080/live/253/253_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="PREMIUM SPORT",Bein Sports 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="PREMIUM SPORT",Bein Sports 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="PREMIUM SPORT",Bein Sports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+
+
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="watcho",&TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+http://103.175.73.12:8080/live/252/252_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
@@ -431,7 +438,6 @@ http://103.175.73.12:8080/live/254/254_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
-#http://103.175.242.10:8080/zeecinema/index.m3u8
 http://103.175.73.12:8080/live/264/264_0.m3u8
 
 
