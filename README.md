@@ -214,12 +214,99 @@ http://103.175.73.12:8080/live/70/70_0.m3u8
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 http://103.175.73.12:8080/live/83/83_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
+#http://103.99.249.139/starsport1/index.m3u8
+#http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+#http://103.175.73.12:8080/live/65/65_0.m3u8
+#https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8
+http://204.188.207.74:6061/starsports1_1005/index.m3u8?token=dontknow
+
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2 hd
+#http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
+http://103.175.73.12:8080/live/67/67_0.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
+http://103.175.73.12:8080/live/69/69_0.m3u8
+
+
+#EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
+#http://stvlive.net:8080/starselect1/index.m3u8
+http://103.175.73.12:8080/live/72/72_0.m3u8
+
+
+#EXTINF:-1 tvg-id="89" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 SD
+http://103.175.73.12:8080/live/282/282_0.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
 http://103.175.73.12:8080/live/194/194_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
+#https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
+#http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+#http://103.175.242.10:8080/jalshamovies/index.m3u8
+https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
+#http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
+http://103.175.73.12:8080/live/40/40_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+#http://103.175.73.12:8080/live/30/30_0.m3u8
+#http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+http://103.175.73.12:8080/live/30/30_0.m3u8
+
+
+#EXTINF:-1, STAR GOLD SD
+http://103.175.73.12:8080/live/31/31_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
+http://103.175.73.12:8080/live/3/3_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+http://103.175.73.12:8080/live/56/56_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://103.175.73.12:8080/live/60/60_0.m3u8
+
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
+http://103.175.73.12:8080/live/437/437_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
+http://103.175.73.12:8080/live/12/12_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
+http://103.175.73.12:8080/live/441/441_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
+http://103.175.73.12:8080/live/37/37_0.m3u8
+
+
+#EXTINF:-1, COLORS CINEPLEX SD
+http://103.175.73.12:8080/live/273/273_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
+http://103.175.73.12:8080/live/14/14_0.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -324,6 +411,62 @@ http://103.175.73.12:8080/live/78/78_0.m3u8
 http://103.175.73.12:8080/live/80/80_0.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="watcho",&TV SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+http://103.175.73.12:8080/live/253/253_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="watcho",&Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+http://103.175.73.12:8080/live/266/266_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="watcho",Zee TV HD
+#http://103.175.242.10:8080/zeetv/index.m3u8
+http://103.175.73.12:8080/live/254/254_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+#http://103.175.242.10:8080/zeecinema/index.m3u8
+http://103.175.73.12:8080/live/264/264_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png" group-title="watcho",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="watcho",9X Jalwa
+http://103.175.73.12:8080/live/161/161_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="watcho",9X Tashan
+http://103.175.73.12:8080/live/178/178_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="watcho",9X Jhakkas
+http://103.175.73.12:8080/live/365/365_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="watcho",Zing
+http://103.175.73.12:8080/live/154/154_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV HD
+http://45.148.145.57/PAK_HUMTVG/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
@@ -331,7 +474,10 @@ http://103.175.73.12:8080/live/80/80_0.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
-
+#EXTINF:-1,TEN SPORTS
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
+#EXTINF:-1,TEN CRICKET 
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
