@@ -180,7 +180,10 @@ http://tv.starsharetv.com:8080/live/su/123456/397.ts
 http://tv.starsharetv.com:8080/live/su/123456/411.ts
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
+#http://stvlive.net:8080/tsports1/index.m3u8
+#https://sonamul3535.vercel.app/T-sport.m3u8
+http://103.96.235.18:9090/sports1/index.m3u8
 
 #EXTINF:-1, STAR NEWS BD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
@@ -201,4 +204,190 @@ https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2hhbm5lbC1z&name=Cha
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 
+
+
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
+http://103.175.73.12:8080/live/70/70_0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
+http://103.175.73.12:8080/live/83/83_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha HD
+#https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
+#https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/index.m3u8
+http://103.175.73.12:8080/live/194/194_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
+#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+http://103.175.73.12:8080/live/193/193_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+#http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
+#https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
+#http://103.175.242.10:8080/starplus/index.m3u8
+http://103.175.73.12:8080/live/1/1_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="AynaOTT - IN Bangla",Zee Bangla
+#https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+http://103.175.73.12:8080/live/373/373_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
+#http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/3753.ts
+
+
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-language="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+http://tv.starsharetv.com:8080/live/su/123456/410.ts
+
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+#http://103.99.249.139/colors/index.m3u8
+#http://103.175.242.10:8080/colorshd/index.m3u8
+#https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
+#http://217.20.112.199:8888/ColorsHD/index.m3u8
+http://103.175.73.12:8080/live/7/7_0.m3u8
+
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
+#http://217.20.112.199/sethd/index.m3u8
+http://103.175.73.12:8080/live/250/250_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
+#http://103.99.249.139/sonysab/index.m3u8
+#http://217.20.112.199:8888/sabtvhd/index.m3u8
+http://103.175.73.12:8080/live/5/5_0.m3u8
+
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
+http://103.175.73.12:8080/live/11/11_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
+#http://103.175.242.10:8080/sonyaath/index.m3u8
+http://103.175.73.12:8080/live/196/196_0.m3u8
+
+#EXTINF:-1,SONY MAX 2(TOFFEE)
+http://103.175.73.12:8080/live/39/39_0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
+http://103.175.73.12:8080/live/122/122_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
+#http://103.99.249.139/sonymax/index.m3u8
+#http://103.175.242.10:8080/sonymax/index.m3u8
+http://103.175.73.12:8080/live/32/32_0.m3u8
+
+
+#EXTINF:-1,MAX 1
+http://103.175.73.12:8080/live/164/164_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
+http://103.175.73.12:8080/live/38/38_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
+http://103.175.73.12:8080/live/58/58_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
+http://103.175.73.12:8080/live/131/131_0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
+http://103.175.73.12:8080/live/74/74_0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
+http://103.175.73.12:8080/live/76/76_0.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
+http://103.175.73.12:8080/live/78/78_0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
+#http://cdnd.sonyplex.com:8090/hls/SonyTen5HD.m3u8
+http://103.175.73.12:8080/live/80/80_0.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
+#https://cdn-4.pishow.tv/live/1143/master.m3u8
+http://103.175.73.12:8080/live/379/379_0.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
+http://103.175.73.12:8080/live/320/320_0.m3u8
+#EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
+http://103.175.73.12:8080/live/128/128_0.m3u8
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
+http://103.175.73.12:8080/live/126/126_0.m3u8
+
+#EXTINF:-1,POGO
+http://103.175.73.12:8080/live/323/323_0.m3u8
+#EXTINF:-1,SONIC বাংলা
+#http://103.175.73.12:8080/live/124/124_0.m3u8
+http://103.180.212.191:3500/live/1345.m3u8
+
+#EXTINF:-1, CARTOON NETWORK
+http://103.175.73.12:8080/live/127/127_0.m3u8
+#EXTINF:-1,ETV BAL BHARAT
+#http://103.175.73.12:8080/live/319/319_0.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/355286.ts
+
+
+#EXTINF:-1,DURONTO TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
+http://tv.starsharetv.com:8080/live/su/123456/9392.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
+#http://66.102.120.18:8000/play/a001/index.m3u8
+http://103.175.73.12:8080/live/328/328_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
+#https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
+#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+https://tigerhub-bd.vercel.app/Documentary/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,DW NEWS
+http://103.175.73.12:8080/live/116/116_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nat_Geo_HD.png" group-title="Documentary",National Geographic HD বাংলা
+#https://tigerhub-bd.vercel.app/Documentary/National-Geographic-Hindy/tracks-v1a1/mono.ts.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/7342.ts
+
+
+#EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD বাংলা
+#https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+http://tv.starsharetv.com:8080/live/su/123456/20622.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick বাংলা
+#http://103.180.212.191:3500/live/1341.m3u8
+https://tvisp.banglaboxtv.top/AHIL15/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1,AL JAZEERA ENGLISH
+http://103.175.73.12:8080/live/318/318_0.m3u8
 
